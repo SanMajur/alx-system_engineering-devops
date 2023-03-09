@@ -5,7 +5,7 @@ ALX system engineering devops is the first module of the ALX Full Stack Software
 ## Projects
 The following table contains a list of project.
 
-| Project Name | Description |
-|--------------|-------------|
+| Project Name     | Description |
+|------------------|-------------|
 |[0x0-shell_basics](https://github.com/SanMajur/alx-system_engineering-devops)|It introduces basic shell commands to navigate and manipulate files and directories.|
  
