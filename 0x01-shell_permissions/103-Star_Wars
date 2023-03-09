@@ -1,2 +1,4 @@
 #!/bin/bash
+
+# I didn't understand the following command, have spent almost two hours researching about it but with no luck.
 telnet towel.blinkenlights.nl
