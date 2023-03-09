@@ -7,5 +7,5 @@ The following table contains a list of project.
 
 | Project Name     | Description |
 |------------------|-------------|
-|[0x0-shell_basics](https://github.com/SanMajur/alx-system_engineering-devops)|It introduces basic shell commands to navigate and manipulate files and directories.|
- 
+|[0x00-shell_basics](https://github.com/SanMajur/alx-system_engineering-devops)|It introduces basic shell commands to navigate and manipulate files and directories.|
+|[0x01-shell_permissions](https://github.com/SanMajur/alx-system_engineering-devops/tree/master/0x01-shell_permissions)| It introduces basic shell permissions to change permissions, owner and group of a file or a directory.|
