@@ -9,4 +9,5 @@ The following table contains a list of project.
 |------------------|-------------|
 |[0x00-shell_basics](https://github.com/SanMajur/alx-system_engineering-devops)|It introduces basic shell commands to navigate and manipulate files and directories.|
 |[0x01-shell_permissions](https://github.com/SanMajur/alx-system_engineering-devops/tree/master/0x01-shell_permissions)| It introduces basic shell permissions to change permissions, owner and group of a file or a directory.|
-|[0xo2-shell_redirections](https://github.com/SanMajur/alx-system_engineering-devops/tree/master/0x02-shell_redirections)|It introduces how to redirect, send and get standard output and input to and from a file.
+|[0x02-shell_redirections](https://github.com/SanMajur/alx-system_engineering-devops/tree/master/0x02-shell_redirections)|It introduces how to redirect, send and get standard output and input to and from a file.|
+|[0x03-shell_variables_expansions](https://github.com/SanMajur/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)| It introduces shell initialization, variables and the concept of expansion of shell commands.|
